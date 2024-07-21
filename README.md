@@ -19,7 +19,7 @@ Simulation results are saved in the `result` directory.
 
 ## Performance Analysis
 
-To view computation times, you can use the provided script `./data/showTimeData.m`. 
+To view computation times, you can use the provided script `./data/showTimeData.m`.  
 Alternatively, you are welcome to modify the software to analyze performance data according to your specific needs.
 
 ## License
