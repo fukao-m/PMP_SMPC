@@ -11,7 +11,7 @@ To use this software, run the `main.m` file.
 Simulation settings are stored in the `config` directory. To change the configuration:
 
 1. Add a new file to the `config` directory with your desired settings.
-2. Specify the new configuration file in the `main` file.
+2. Specify the new configuration file in the `main.m` file.
 
 ## Results
 
